@@ -1,0 +1,14 @@
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\bin\Debug\net6.0\ConAppAssignment.exe
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\bin\Debug\net6.0\ConAppAssignment.deps.json
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\bin\Debug\net6.0\ConAppAssignment.runtimeconfig.json
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\bin\Debug\net6.0\ConAppAssignment.dll
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\bin\Debug\net6.0\ConAppAssignment.pdb
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ConAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ConAppAssignment.AssemblyInfoInputs.cache
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ConAppAssignment.AssemblyInfo.cs
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ConAppAssignment.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ConAppAssignment.dll
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\refint\ConAppAssignment.dll
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ConAppAssignment.pdb
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ConAppAssignment.genruntimeconfig.cache
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppAssignment\ConAppAssignment\obj\Debug\net6.0\ref\ConAppAssignment.dll
